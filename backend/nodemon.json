@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER": "dhruvpathak414",
+        "DB_PASSWORD":"Dhruv12345",
+        "DB_NAME": "mernapp",
+        "JWT_KEY":"supersecret_dont_share",
+        "LOCATIONIQ_API_KEY": "pk.091c4b48b49792d62822c6559e83d3c2"
+    }
+}
